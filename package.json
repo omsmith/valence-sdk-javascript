@@ -19,7 +19,7 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
     }
   ],
-  "main": "lib/valence",
+  "main": "valence.js",
   "engines": {
     "node": ">=0.10"
   },
